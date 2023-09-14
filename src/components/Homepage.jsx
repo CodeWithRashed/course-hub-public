@@ -30,6 +30,11 @@ const Homepage = () => {
       initialCreditHr
     );
 
+    if (totalCreditHr > 20) {
+      return toast.error("Max Credit Hour Reach");
+    }
+    setCreditHr(totalCreditHr);
+    setSelectedCourse([...selectedCourse, course]);
     let initialCoursePrice = course.course_price;
     const totalCoursePrice = selectedCourse.reduce(
       (accumulator, course) => accumulator + course.course_price,
@@ -37,11 +42,6 @@ const Homepage = () => {
     );
     setTotalCoursePrice(totalCoursePrice);
     console.log(totalCoursePrice);
-    if (totalCreditHr > 20) {
-      return alert("Max Credit Hour Reach");
-    }
-    setCreditHr(totalCreditHr);
-    setSelectedCourse([...selectedCourse, course]);
   };
 
   return (
