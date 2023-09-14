@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import CourseCard from "./CourseCard";
 import SidebarCard from "./SidebarCard";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Homepage = () => {
   const [courseData, setCourseData] = useState([]);
@@ -19,7 +21,7 @@ const Homepage = () => {
       (singleCourse) => singleCourse.id == course.id
     );
     if (isAlreadyAdded) {
-      return alert("Already Added");
+      return toast.error("Already Added");
     }
 
     let initialCreditHr = course.course_hours;
@@ -44,6 +46,7 @@ const Homepage = () => {
 
   return (
     <div className="container flex flex-col lg:flex-row gap-4">
+      <ToastContainer />
       <div className="card-container lg:w-[75%] grid grid-cols-3 gap-2">
         {courseData.map((course) => (
           <CourseCard
