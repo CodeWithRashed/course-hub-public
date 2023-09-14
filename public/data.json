@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "course_title": "Course 1",
+    "course_image": "image_url_1.jpg",
+    "small_course_description": "Description for Course 1",
+    "course_price": 49,
+    "course_hours": 3
+  },
+  {
+    "id": 2,
+    "course_title": "Course 2",
+    "course_image": "image_url_2.jpg",
+    "small_course_description": "Description for Course 2",
+    "course_price": 29,
+    "course_hours": 2
+  },
+  {
+    "id": 3,
+    "course_title": "Course 3",
+    "course_image": "image_url_3.jpg",
+    "small_course_description": "Description for Course 3",
+    "course_price": 99,
+    "course_hours": 4
+  },
+  {
+    "id": 4,
+    "course_title": "Course 4",
+    "course_image": "image_url_4.jpg",
+    "small_course_description": "Description for Course 4",
+    "course_price": 79,
+    "course_hours": 5
+  },
+  {
+    "id": 5,
+    "course_title": "Course 5",
+    "course_image": "image_url_5.jpg",
+    "small_course_description": "Description for Course 5",
+    "course_price": 39,
+    "course_hours": 2
+  },
+  {
+    "id": 6,
+    "course_title": "Course 6",
+    "course_image": "image_url_6.jpg",
+    "small_course_description": "Description for Course 6",
+    "course_price": 59,
+    "course_hours": 3
+  },
+  {
+    "id": 7,
+    "course_title": "Course 7",
+    "course_image": "image_url_7.jpg",
+    "small_course_description": "Description for Course 7",
+    "course_price": 69,
+    "course_hours": 4
+  },
+  {
+    "id": 8,
+    "course_title": "Course 8",
+    "course_image": "image_url_8.jpg",
+    "small_course_description": "Description for Course 8",
+    "course_price": 19,
+    "course_hours": 1
+  },
+  {
+    "id": 9,
+    "course_title": "Course 9",
+    "course_image": "image_url_9.jpg",
+    "small_course_description": "Description for Course 9",
+    "course_price": 89,
+    "course_hours": 6
+  }
+]
