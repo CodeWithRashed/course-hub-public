@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "course_title": "Web Development Fundamentals",
+    "course_title": "Web Development 101",
     "course_image": "https://img-c.udemycdn.com/course/750x422/1565838_e54e_16.jpg",
     "small_course_description": "Learn the basics of web development and HTML/CSS.",
     "course_price": 49,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "course_title": "Python Programming Masterclass",
+    "course_title": "Python Masterclass",
     "course_image": "https://img-c.udemycdn.com/course/750x422/4766644_7dbd.jpg",
     "small_course_description": "A comprehensive Python programming course for beginners and intermediates.",
     "course_price": 79,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "course_title": "Machine Learning with TensorFlow",
+    "course_title": "Learn Machine Learning",
     "course_image": "https://img-c.udemycdn.com/course/750x422/3693164_f87d_3.jpg",
     "small_course_description": "Build machine learning models using TensorFlow and Keras.",
     "course_price": 89,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "course_title": "Graphic Design for Beginners",
+    "course_title": "Graphic Design 101",
     "course_image": "https://img-c.udemycdn.com/course/750x422/1864390_96a5_2.jpg",
     "small_course_description": "Introduction to graphic design and Adobe Creative Suite.",
     "course_price": 49,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "course_title": "Entrepreneurship and Business Growth",
+    "course_title": "Business Growth 101",
     "course_image": "https://img-b.udemycdn.com/course/750x422/3099026_ebce.jpg",
     "small_course_description": "Start and grow a successful business with expert advice.",
     "course_price": 79,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "course_title": "Yoga and Mindfulness Meditation",
+    "course_title": "Mindfulness Meditation",
     "course_image": "https://img-c.udemycdn.com/course/750x422/2949340_dd13.jpg",
     "small_course_description": "Improve physical and mental well-being through yoga and meditation.",
     "course_price": 39,
