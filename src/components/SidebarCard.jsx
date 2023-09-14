@@ -1,7 +1,7 @@
 const SidebarCard = () => {
   return (
     <div className="container bg-white p-8 rounded-2xl space-y-2 font-Inter">
-      <h2 className="text-[#2F80ED] text-xl font-bold pb-2">
+      <h2 className="text-[#2F80ED] text- font-bold pb-2">
         Credit Hour Remaining 7 hr
       </h2>
       <hr className="h-[1px] bg-[#1C1B1B20] border-0" />
