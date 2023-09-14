@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "course_title": "Course 1",
-    "course_image": "image_url_1.jpg",
-    "small_course_description": "Description for Course 1",
+    "course_title": "Web Development Fundamentals",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/1565838_e54e_16.jpg",
+    "small_course_description": "Learn the basics of web development and HTML/CSS.",
     "course_price": 49,
-    "course_hours": 3
+    "course_hours": 8
   },
   {
     "id": 2,
-    "course_title": "Course 2",
-    "course_image": "image_url_2.jpg",
-    "small_course_description": "Description for Course 2",
-    "course_price": 29,
-    "course_hours": 2
+    "course_title": "Python Programming Masterclass",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/4766644_7dbd.jpg",
+    "small_course_description": "A comprehensive Python programming course for beginners and intermediates.",
+    "course_price": 79,
+    "course_hours": 12
   },
   {
     "id": 3,
-    "course_title": "Course 3",
-    "course_image": "image_url_3.jpg",
-    "small_course_description": "Description for Course 3",
-    "course_price": 99,
-    "course_hours": 4
+    "course_title": "Data Science Essentials",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/2923614_85aa.jpg",
+    "small_course_description": "Introduction to data science and data analysis with Python.",
+    "course_price": 59,
+    "course_hours": 10
   },
   {
     "id": 4,
-    "course_title": "Course 4",
-    "course_image": "image_url_4.jpg",
-    "small_course_description": "Description for Course 4",
-    "course_price": 79,
-    "course_hours": 5
+    "course_title": "Machine Learning with TensorFlow",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/3693164_f87d_3.jpg",
+    "small_course_description": "Build machine learning models using TensorFlow and Keras.",
+    "course_price": 89,
+    "course_hours": 15
   },
   {
     "id": 5,
-    "course_title": "Course 5",
-    "course_image": "image_url_5.jpg",
-    "small_course_description": "Description for Course 5",
-    "course_price": 39,
-    "course_hours": 2
+    "course_title": "Digital Marketing Mastery",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/472416_9257.jpg",
+    "small_course_description": "Learn online marketing strategies and social media marketing.",
+    "course_price": 69,
+    "course_hours": 9
   },
   {
     "id": 6,
-    "course_title": "Course 6",
-    "course_image": "image_url_6.jpg",
-    "small_course_description": "Description for Course 6",
-    "course_price": 59,
-    "course_hours": 3
+    "course_title": "Graphic Design for Beginners",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/1864390_96a5_2.jpg",
+    "small_course_description": "Introduction to graphic design and Adobe Creative Suite.",
+    "course_price": 49,
+    "course_hours": 6
   },
   {
     "id": 7,
-    "course_title": "Course 7",
-    "course_image": "image_url_7.jpg",
-    "small_course_description": "Description for Course 7",
-    "course_price": 69,
-    "course_hours": 4
+    "course_title": "Photography Essentials",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/1938954_3547_12.jpg",
+    "small_course_description": "Master the art of photography, from camera settings to editing.",
+    "course_price": 59,
+    "course_hours": 7
   },
   {
     "id": 8,
-    "course_title": "Course 8",
-    "course_image": "image_url_8.jpg",
-    "small_course_description": "Description for Course 8",
-    "course_price": 19,
-    "course_hours": 1
+    "course_title": "Entrepreneurship and Business Growth",
+    "course_image": "https://img-b.udemycdn.com/course/750x422/3099026_ebce.jpg",
+    "small_course_description": "Start and grow a successful business with expert advice.",
+    "course_price": 79,
+    "course_hours": 11
   },
   {
     "id": 9,
-    "course_title": "Course 9",
-    "course_image": "image_url_9.jpg",
-    "small_course_description": "Description for Course 9",
-    "course_price": 89,
-    "course_hours": 6
+    "course_title": "Yoga and Mindfulness Meditation",
+    "course_image": "https://img-c.udemycdn.com/course/750x422/2949340_dd13.jpg",
+    "small_course_description": "Improve physical and mental well-being through yoga and meditation.",
+    "course_price": 39,
+    "course_hours": 5
   }
 ]
