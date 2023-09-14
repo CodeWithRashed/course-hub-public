@@ -1,7 +1,7 @@
 import { FiBookOpen } from "react-icons/fi";
 import { MdAttachMoney } from "react-icons/md";
 import PropTypes from "prop-types";
-const CourseCard = ({ course }) => {
+const CourseCard = ({ course, handelSelect }) => {
   return (
     <div className="card bg-white p-4 rounded-xl space-y-3 flex flex-col justify-between">
       <div className="img">
@@ -28,7 +28,10 @@ const CourseCard = ({ course }) => {
             </h1>
           </div>
         </div>
-        <button className="p-2 mt-3 bg-[#2F80ED] w-full rounded-lg text-white font-bold">
+        <button
+          onClick={() => handelSelect(course)}
+          className="p-2 mt-3 bg-[#2F80ED] w-full rounded-lg text-white font-bold"
+        >
           Select
         </button>
       </div>
@@ -37,6 +40,7 @@ const CourseCard = ({ course }) => {
 };
 CourseCard.propTypes = {
   course: PropTypes.object,
+  handelSelect: PropTypes.func,
 };
 
 export default CourseCard;

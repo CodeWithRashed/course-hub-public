@@ -1,4 +1,7 @@
-const SidebarCard = () => {
+import PropTypes from "prop-types";
+
+const SidebarCard = ({ selectedCourse }) => {
+  console.log(selectedCourse);
   return (
     <div className="container bg-white p-8 rounded-2xl space-y-2 font-Inter">
       <h2 className="text-[#2F80ED] text- font-bold pb-2">
@@ -26,4 +29,7 @@ const SidebarCard = () => {
   );
 };
 
+SidebarCard.propTypes = {
+  selectedCourse: PropTypes.array,
+};
 export default SidebarCard;
