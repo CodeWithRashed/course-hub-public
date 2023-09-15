@@ -32,3 +32,6 @@ Keeps track of the total credit hours for selected courses.
 
 **Total Course Price:**
 Hold and updates the total cost of selected courses in real-time.
+
+Live link: [Vercel](https://course-hub-nu.vercel.app/)
+Live Link: [Firebase](https://phcoursehubassignment.web.app/)
