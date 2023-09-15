@@ -41,7 +41,6 @@ const Homepage = () => {
       initialCoursePrice
     );
     setTotalCoursePrice(totalCoursePrice);
-    console.log(totalCoursePrice);
   };
 
   return (

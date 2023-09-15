@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 
 const SidebarCard = ({ selectedCourse, creditHr, totalCoursePrice }) => {
-  console.log(creditHr);
   let remainingCreditHr = 20;
   return (
     <div className="container bg-white p-8 rounded-2xl space-y-2 font-Inter">
