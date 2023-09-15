@@ -4,19 +4,19 @@ Welcome to the Course Selection App, a professional and user-friendly platform f
 
 ## Features
 
-**1. Course Selection**
+**1. Course Selection:**
 User can select any course the like or interested to do!
 
-**2. Credit Hour Limit**
+**2. Credit Hour Limit:**
 User is limited to take under 20hr total course credit. if they try to select more then 20hr course credit they will warn by a toast.
 
-**3. Duplicate Course Prevention**
+**3. Duplicate Course Prevention:**
 We prevent you from accidentally adding the same course multiple times.
 
-**4. Real-time Price Update**
+**4. Real-time Price Update:**
 Total cost or price will update instantly as soon as you add a course to cart.
 
-**5. User Notifications with toasts**
+**5. User Notifications with toasts:**
 If you try to exceed the credit hour limit or add a duplicate course, we'll gently remind you with a notification.
 
 ## State Management
