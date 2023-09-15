@@ -4,7 +4,7 @@
     "course_title": "Web Development 101",
     "course_image": "https://img-c.udemycdn.com/course/750x422/1565838_e54e_16.jpg",
     "small_course_description": "Learn the basics of web development and HTML/CSS.",
-    "course_price": 49,
+    "course_price": 50,
     "course_hours": 8
   },
   {
@@ -12,7 +12,7 @@
     "course_title": "Python Masterclass",
     "course_image": "https://img-c.udemycdn.com/course/750x422/4766644_7dbd.jpg",
     "small_course_description": "A comprehensive Python programming course for beginners and intermediates.",
-    "course_price": 79,
+    "course_price": 70,
     "course_hours": 12
   },
   {
@@ -20,7 +20,7 @@
     "course_title": "Data Science Essentials",
     "course_image": "https://img-c.udemycdn.com/course/750x422/2923614_85aa.jpg",
     "small_course_description": "Introduction to data science and data analysis with Python.",
-    "course_price": 59,
+    "course_price": 50,
     "course_hours": 10
   },
   {
@@ -28,7 +28,7 @@
     "course_title": "Learn Machine Learning",
     "course_image": "https://img-c.udemycdn.com/course/750x422/3693164_f87d_3.jpg",
     "small_course_description": "Build machine learning models using TensorFlow and Keras.",
-    "course_price": 89,
+    "course_price": 80,
     "course_hours": 15
   },
   {
@@ -36,39 +36,39 @@
     "course_title": "Digital Marketing Mastery",
     "course_image": "https://img-c.udemycdn.com/course/750x422/472416_9257.jpg",
     "small_course_description": "Learn online marketing strategies and social media marketing.",
-    "course_price": 69,
-    "course_hours": 9
+    "course_price": 60,
+    "course_hours": 5
   },
   {
     "id": 6,
     "course_title": "Graphic Design 101",
     "course_image": "https://img-c.udemycdn.com/course/750x422/1864390_96a5_2.jpg",
     "small_course_description": "Introduction to graphic design and Adobe Creative Suite.",
-    "course_price": 49,
-    "course_hours": 6
+    "course_price": 40,
+    "course_hours": 5
   },
   {
     "id": 7,
     "course_title": "Photography Essentials",
     "course_image": "https://img-c.udemycdn.com/course/750x422/1938954_3547_12.jpg",
     "small_course_description": "Master the art of photography, from camera settings to editing.",
-    "course_price": 59,
-    "course_hours": 7
+    "course_price": 50,
+    "course_hours": 20
   },
   {
     "id": 8,
     "course_title": "Business Growth 101",
     "course_image": "https://img-b.udemycdn.com/course/750x422/3099026_ebce.jpg",
     "small_course_description": "Start and grow a successful business with expert advice.",
-    "course_price": 79,
-    "course_hours": 11
+    "course_price": 70,
+    "course_hours": 5
   },
   {
     "id": 9,
     "course_title": "Mindfulness Meditation",
     "course_image": "https://img-c.udemycdn.com/course/750x422/2949340_dd13.jpg",
     "small_course_description": "Improve physical and mental well-being through yoga and meditation.",
-    "course_price": 39,
-    "course_hours": 5
+    "course_price": 30,
+    "course_hours": 10
   }
 ]

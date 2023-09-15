@@ -47,7 +47,7 @@ const Homepage = () => {
   return (
     <div className="container flex flex-col lg:flex-row gap-4">
       <ToastContainer />
-      <div className="card-container lg:w-[75%] grid grid-cols-3 gap-2">
+      <div className="card-container lg:w-[75%] grid md:grid-cols-2 lg:grid-cols-3 gap-2">
         {courseData.map((course) => (
           <CourseCard
             key={course.id}

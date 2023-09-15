@@ -21,7 +21,7 @@ const CourseCard = ({ course, handelSelect }) => {
           <div className="text-xl flex justify-center items-center">
             <MdAttachMoney />
             <h1 className="text-base text-[#1C1B1B99] font-semibold">
-              Price : {course.course_price}
+              Price : {course.course_price}$
             </h1>
           </div>
           <div className="text-xl flex justify-center items-center gap-1">
