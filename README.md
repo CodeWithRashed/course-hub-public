@@ -1,3 +1,6 @@
+Live link: [Vercel](https://course-hub-nu.vercel.app/)
+Live Link: [Firebase](https://phcoursehubassignment.web.app/)
+
 # Course Hub App
 
 Welcome to the Course Selection App, a professional and user-friendly platform for choosing the perfect courses to advance your education and career.
