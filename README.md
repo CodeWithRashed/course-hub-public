@@ -5,33 +5,44 @@ Welcome to the Course Selection App, a professional and user-friendly platform f
 ## Features
 
 **1. Course Selection:**
-User can select any course the like or interested to do!
+User can select any course they like or are interested in.
 
 **2. Credit Hour Limit:**
-User is limited to take under 20hr total course credit. if they try to select more then 20hr course credit they will warn by a toast.
+Users are limited to selecting under 20 course credit hours. If they try to select more than 20 course credit hours, they will be warned by a toast notification.
 
 **3. Duplicate Course Prevention:**
-We prevent you from accidentally adding the same course multiple times.
+The app prevents users from accidentally adding the same course multiple times.
 
 **4. Real-time Price Update:**
-Total cost or price will update instantly as soon as you add a course to cart.
+The total cost or price updates instantly as soon as a course is added to the cart.
 
-**5. User Notifications with toasts:**
-If you try to exceed the credit hour limit or add a duplicate course, we'll gently remind you with a notification.
+**5. User Notifications with Toasts:**
+Users receive notifications with toasts for actions such as exceeding the credit hour limit or adding a duplicate course.
 
 ## State Management
 
 **Course Data:**
-Our all courses, holding information about available courses.
+All available courses and their information are stored here.
 
 **Selected Courses:**
-Selected Courses is holding users selected course and store them.
+This state holds the courses selected by users and manages them.
 
 **Credit Hours:**
-Keeps track of the total credit hours for selected courses.
+It keeps track of the total credit hours for selected courses.
 
 **Total Course Price:**
-Hold and updates the total cost of selected courses in real-time.
+This state holds and updates the total cost of selected courses in real-time.
 
-Live link: [Vercel](https://course-hub-nu.vercel.app/)
-Live Link: [Firebase](https://phcoursehubassignment.web.app/)
+## Technologies and Knowledge
+
+The Course Hub App is built using the following technologies and concepts:
+
+- **React:** The core framework for building the user interface and managing state.
+- **Vite:** A fast build tool that helps in rapid development.
+- **Tailwind CSS:** A utility-first CSS framework that makes styling and design efficient.
+- **React Toast Notifications:** Used for displaying user notifications with toasts.
+- **Real-time Updates:** Achieved by updating the UI when users select or remove courses.
+- **State Management:** Utilized to manage course data, selected courses, credit hours, and total course price.
+- **Firebase:** Hosting the application for deployment.
+
+This project showcases the implementation of various features and technologies, making it a valuable resource for learning React, state management, UI design with Tailwind CSS, and real-time updates with toasts. It offers a practical example of building a responsive and interactive web application.
